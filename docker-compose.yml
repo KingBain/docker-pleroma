@@ -33,3 +33,4 @@ services:
       DB_USER: pleroma
       DB_PASS: ChangeMe!
       DB_NAME: pleroma
+      DB_HOST: localhost
